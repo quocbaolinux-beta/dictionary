@@ -1,1 +1,1 @@
-# dictionary.github.io
+# dictionary
